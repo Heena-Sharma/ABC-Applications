@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABC App</string>
+    <string name="title_activity_caraousel_content">CarouselContent</string>
+    <string name="search">Search…</string>
+    <string name="no_of_funds_organization_items_top_3_characters">No. of funds organization: %1$s \n\nTop 3 Characters</string>
+    <string name="no_result_found">No data found</string>
+</resources>
